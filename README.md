@@ -12,4 +12,12 @@ To test:
     $ docker run --rm --name fosdem-map -v $(pwd):/data c3nav/c3nav build
     $ docker run --rm --name fosdem-map -p 8042:8000 -v $(pwd):/data c3nav/c3nav runlocal
 
-Maps should now be available at http://localhost:8042/.
+Maps should now be available at <http://localhost:8042/>.
+
+Use the editor at <http://localhost:8042/editor/>.
+
+When you're done adding a feature, run
+
+    $ docker run --rm --name fosdem-map -v $(pwd):/data c3nav/c3nav dumpmap
+
+Then commit the changes.
