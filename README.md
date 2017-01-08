@@ -3,7 +3,7 @@ FOSDEM maps
 
 This should soon contain the port of the FOSDEM campus to c3nav.de data. 
 
-To test:
+To test locally:
 
     $ git clone git@github.com:FOSDEM/maps.git
     $ docker pull c3nav/c3nav
@@ -21,3 +21,12 @@ When you're done adding a feature, run
     $ docker run --rm --name fosdem-map -v $(pwd):/data c3nav/c3nav dumpmap
 
 Then commit the changes.
+
+# nav.fosdem.org
+To allow this server to act as nav.fosdem.org, we created a file named `~/.c3nav.cfg`:
+<pre>
+[django]
+hosts = nav.fosdem.org
+</pre>
+
+A c3nav development server is available in a tmux session for now on http://nav.fosdem.org:8000 .
