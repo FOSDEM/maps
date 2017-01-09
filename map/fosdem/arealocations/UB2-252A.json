@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "UB2.252A"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [384.69, 185.75],
+                [412.56, 185.81],
+                [412.59, 172.0],
+                [384.66, 172.03],
+                [384.69, 185.75]
+            ]
+        ]
+    }
+}
