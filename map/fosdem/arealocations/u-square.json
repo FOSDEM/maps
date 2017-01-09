@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Square at center of U building"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "area",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [370.25, 247.12],
+                [460.62, 247.44],
+                [460.69, 186.88],
+                [370.06, 187.0],
+                [370.25, 247.12]
+            ]
+        ]
+    }
+}
