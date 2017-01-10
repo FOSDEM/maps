@@ -10,5 +10,7 @@ git reset --hard origin/master
 
 cd ~/c3nav
 source env/bin/activate
-python ./manage.py loadmap
-python ./manage.py build
+cd src
+python ./manage.py loadmap -y
+python ./manage.py rendermap
+python ./manage.py buildgraph
