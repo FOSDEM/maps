@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -ex
+
 # for use on nav.fosdem.org
 
 cd ~/maps
