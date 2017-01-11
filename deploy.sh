@@ -4,11 +4,9 @@ set -ex
 
 # for use on nav.fosdem.org
 
-cd ~/maps
+cd ~/data/map/maps
 git remote update
 git reset --hard origin/master
-
-cp -r map ~/c3nav/src/data
 
 cd ~/c3nav
 source env/bin/activate
