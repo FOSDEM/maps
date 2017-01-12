@@ -23,8 +23,10 @@ When you're done adding a feature, run
 Then commit the changes.
 
 # nav.fosdem.org
-To allow this server to act as nav.fosdem.org, we created a file named `~/.c3nav.cfg`:
+To allow this server to act as nav.fosdem.org and use the fosdem maps, we created a file named `~/.c3nav.cfg`:
 <pre>
+[c3nav]
+public_packages=map.fosdem.org
 [django]
 hosts = nav.fosdem.org
 </pre>
