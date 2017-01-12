@@ -9,7 +9,7 @@ The source maps need to be fit to the correct scale and location so they line up
 This is so you can tick a box and see them in the editor.
 
 In the github repo, there's files like maps/sources/k-1.png.json, with contents like:
-<pre>"bounds": [[0.0, 0.0], [100.0, 100.0]]</pre>.
+<pre>"bounds": [[0.0, 0.0], [100.0, 100.0]]</pre>
 
 You need to change those coordinates to make things look right by editing the json, running loadmap, refreshing the editor and finally doing a visual check.
 
