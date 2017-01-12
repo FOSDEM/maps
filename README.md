@@ -20,9 +20,11 @@ This needs to happen in http://nav.fosdem.org/editor .
 
 # Play with it locally
 
+    $ mkdir -p fosdem-map-data/map
+    $ cd fosdem-map-data/map
     $ git clone git@github.com:FOSDEM/maps.git
     $ docker pull c3nav/c3nav
-    $ cd maps
+    $ cd ..
     $ docker run --rm --name fosdem-map -v $(pwd):/data c3nav/c3nav loadmap
     $ docker run --rm --name fosdem-map -v $(pwd):/data c3nav/c3nav build
     $ docker run --rm --name fosdem-map -p 8042:8000 -v $(pwd):/data c3nav/c3nav runlocal
