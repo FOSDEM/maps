@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Car park"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "area",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [163.75, 224.38],
+                [242.5, 224.38],
+                [242.5, 121.88],
+                [163.75, 121.75],
+                [163.75, 224.38]
+            ]
+        ]
+    }
+}
