@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Cloak Room"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [160.96, 293.89],
+                [166.98, 293.89],
+                [166.97, 285.55],
+                [165.13, 286.34],
+                [163.95, 286.78],
+                [163.12, 287.09],
+                [161.88, 287.51],
+                [160.96, 287.77],
+                [160.96, 293.89]
+            ]
+        ]
+    }
+}
