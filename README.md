@@ -10,10 +10,10 @@ This is so you can tick a box and see them in the editor.
 
 In the github repo, there's files like maps/sources/k-1.png.json, with contents like:
 <pre>"bounds": [[0.0, 0.0], [100.0, 100.0]]</pre>. You need to change those coordinates to make things look right by:
-* editing the json
-* running loadmap
-* refreshing the editor
-* visually checking
+ * editing the json
+ * running loadmap
+ * refreshing the editor
+ * visually checking
 
 ## Fill in rooms and main pathways
 This needs to happen in http://nav.fosdem.org/editor . 
