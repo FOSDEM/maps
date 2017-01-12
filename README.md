@@ -1,9 +1,26 @@
 FOSDEM maps
 ===========
 
-This should soon contain the port of the FOSDEM campus to c3nav.de data. 
+This is the port of the FOSDEM campus to c3nav.de data. 
 
-To test locally:
+# TODO (in descending order of urgency)
+## Align the source maps
+The source maps need to be fit to the correct scale and location so they line up with the rest of the map.
+This is so you can tick a box and see them in the editor.
+
+In the github repo, there's files like maps/sources/k-1.png.json, with contents like:
+<pre>"bounds": [[0.0, 0.0], [100.0, 100.0]]</pre>. You need to change those coordinates to make things look right by:
+* editing the json
+* running loadmap
+* refreshing the editor
+* visually checking
+
+## Fill in rooms and main pathways
+This needs to happen in http://nav.fosdem.org/editor . 
+
+## Add 2017 details (stands and devrooms mainly)
+
+# Play with it locally
 
     $ git clone git@github.com:FOSDEM/maps.git
     $ docker pull c3nav/c3nav
