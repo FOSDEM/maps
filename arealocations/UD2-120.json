@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "UD2.120"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [329.47, 209.0],
+                [343.14, 209.05],
+                [343.14, 185.56],
+                [329.45, 185.59],
+                [329.47, 209.0]
+            ]
+        ]
+    }
+}
