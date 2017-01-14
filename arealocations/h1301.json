@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "h1301"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [284.55, 48.68],
+                [284.53, 58.99],
+                [269.39, 58.99],
+                [269.39, 48.68],
+                [284.55, 48.68]
+            ]
+        ]
+    }
+}
