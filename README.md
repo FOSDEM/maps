@@ -70,5 +70,3 @@ public_packages=map.fosdem.org
 [django]
 hosts = nav.fosdem.org
 </pre>
-
-A c3nav development server is available in a tmux session for now on http://nav.fosdem.org:8000 .
