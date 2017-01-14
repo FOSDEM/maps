@@ -1,7 +1,7 @@
 FOSDEM maps
 ===========
 
-This is the port of the FOSDEM campus to c3nav.de data. 
+This is the port of the FOSDEM campus to c3nav.de data. We gather on irc.freenode.net#fosdem-nav to coordinate the work.
 
 # TODO (in descending order of urgency)
 ## Align the source maps
