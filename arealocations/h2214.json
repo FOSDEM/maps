@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "H2214"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [274.86, 121.41],
+                [286.38, 121.42],
+                [286.33, 113.83],
+                [274.86, 113.88],
+                [274.86, 121.41]
+            ]
+        ]
+    }
+}

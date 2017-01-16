@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "H2215"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [269.55, 136.17],
+                [283.77, 136.17],
+                [283.77, 122.95],
+                [269.58, 122.95],
+                [269.55, 136.17]
+            ]
+        ]
+    }
+}

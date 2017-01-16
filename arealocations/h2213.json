@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "H2213"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [274.73, 121.41],
+                [274.7, 113.88],
+                [263.3, 113.84],
+                [263.31, 121.36],
+                [274.73, 121.41]
+            ]
+        ]
+    }
+}
