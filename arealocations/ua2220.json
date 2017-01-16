@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "UA2220"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [461.12, 203.27],
+                [474.06, 203.25],
+                [474.09, 185.61],
+                [461.2, 185.59],
+                [461.12, 203.27]
+            ]
+        ]
+    }
+}
