@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Infodesk H"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [288.78, 136.28],
+                [291.53, 133.41],
+                [292.41, 134.22],
+                [289.7, 137.09],
+                [288.78, 136.28]
+            ]
+        ]
+    }
+}
