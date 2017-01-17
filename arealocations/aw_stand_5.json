@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "jenkins stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [357.22, 98.69],
+                [357.22, 99.41],
+                [358.84, 99.44],
+                [358.84, 98.72],
+                [357.22, 98.69]
+            ]
+        ]
+    }
+}
