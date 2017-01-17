@@ -1,0 +1,27 @@
+{
+    "level": "3",
+    "titles": {
+        "en": "k4401"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [115.95, 283.42],
+                [124.44, 283.45],
+                [124.44, 281.72],
+                [125.61, 281.7],
+                [125.61, 275.19],
+                [124.44, 275.2],
+                [124.45, 273.36],
+                [115.98, 273.33],
+                [115.95, 283.42]
+            ]
+        ]
+    }
+}
