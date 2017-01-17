@@ -1,6 +1,7 @@
 {
     "level": "0",
     "titles": {
+        "de": "jenkins stand",
         "en": "jenkins stand"
     },
     "can_search": true,
