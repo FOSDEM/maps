@@ -3,6 +3,11 @@ FOSDEM maps
 
 This is the port of the FOSDEM campus to c3nav.de data. We gather on irc.freenode.net#fosdem-nav to coordinate the work.
 
+This repo holds general map data. If items on the map are specific to year (ie
+stand locations), they should be added to `maps-2017`. If the items are day
+specific (ie devrooms), they should be added to the respective `maps-2017-sat`
+and `maps-2017-sun`.
+
 # TODO (in descending order of urgency)
 ## Align the source maps
 The source maps need to be fit to the correct scale and location so they line up with the rest of the map.
