@@ -48,6 +48,8 @@ Some things to consider:
 
 # Play with it locally
 
+Make sure you have docker allready installed. If you do a fresh install make sure that your user has the right permissions and is in the docker group.
+
     $ mkdir -p fosdem-map-data/map
     $ cd fosdem-map-data/map
     $ git clone git@github.com:FOSDEM/maps.git
