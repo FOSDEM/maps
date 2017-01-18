@@ -51,6 +51,9 @@ Some things to consider:
     $ mkdir -p fosdem-map-data/map
     $ cd fosdem-map-data/map
     $ git clone git@github.com:FOSDEM/maps.git
+    $ git clone git@github.com:kragniz/maps-2017.git
+    $ git clone git@github.com:kragniz/maps-2017-sat.git
+    $ git clone git@github.com:kragniz/maps-2017-sun.git
     $ docker pull c3nav/c3nav
     $ cd ..
     $ docker run --rm --name fosdem-map -v $(pwd):/data c3nav/c3nav loadmap
