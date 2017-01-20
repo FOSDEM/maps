@@ -9,15 +9,15 @@ cd ~/data/map/maps
 git remote update
 git reset --hard origin/master
 
-cd "~/data/map/maps-2017"
+cd ~/data/map/maps-2017
 git remote update
 git reset --hard origin/master
 
-cd "~/data/map/maps-2017-sat"
+cd ~/data/map/maps-2017-sat
 git remote update
 git reset --hard origin/master
 
-cd "~/data/map/maps-2017-sun"
+cd ~/data/map/maps-2017-sun
 git remote update
 git reset --hard origin/master
 
