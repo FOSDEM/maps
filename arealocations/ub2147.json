@@ -1,0 +1,27 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "UB2147"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [470.19, 172.16],
+                [483.41, 172.12],
+                [483.31, 181.53],
+                [481.84, 181.5],
+                [481.81, 182.34],
+                [471.69, 182.28],
+                [471.69, 181.5],
+                [470.19, 181.53],
+                [470.19, 172.16]
+            ]
+        ]
+    }
+}
