@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "AW1121"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [345.38, 112.91],
+                [355.5, 112.88],
+                [355.47, 102.44],
+                [345.31, 102.47],
+                [345.38, 112.91]
+            ]
+        ]
+    }
+}
