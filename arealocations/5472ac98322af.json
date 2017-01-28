@@ -1,0 +1,25 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "WC"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [352.56, 197.47],
+                [356.69, 197.47],
+                [356.66, 185.88],
+                [351.25, 185.97],
+                [351.31, 189.59],
+                [352.56, 189.53],
+                [352.56, 197.47]
+            ]
+        ]
+    }
+}
