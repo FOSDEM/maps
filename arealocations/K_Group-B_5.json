@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "PostgreSQL Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [128.03, 281.86],
+                [129.75, 283.1],
+                [129.57, 283.33],
+                [127.84, 282.1],
+                [128.03, 281.86]
+            ]
+        ]
+    }
+}

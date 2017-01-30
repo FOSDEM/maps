@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Kopano Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [118.58, 284.31],
+                [118.88, 284.31],
+                [118.89, 282.48],
+                [118.61, 282.48],
+                [118.58, 284.31]
+            ]
+        ]
+    }
+}

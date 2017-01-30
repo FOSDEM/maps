@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "coala Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [162.71, 292.96],
+                [162.7, 292.82],
+                [164.59, 292.8],
+                [164.59, 292.95],
+                [162.71, 292.96]
+            ]
+        ]
+    }
+}

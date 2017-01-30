@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Perl Programming Language Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [158.05, 293.02],
+                [158.05, 292.86],
+                [160.15, 292.85],
+                [160.15, 292.99],
+                [158.05, 293.02]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Wikis and CMS Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [149.27, 293.07],
+                [149.27, 292.89],
+                [150.7, 292.9],
+                [150.7, 293.07],
+                [149.27, 293.07]
+            ]
+        ]
+    }
+}

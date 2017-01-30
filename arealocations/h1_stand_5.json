@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "WolfSSL Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [295.12, 65.11],
+                [295.12, 66.23],
+                [294.62, 66.25],
+                [294.64, 65.11],
+                [295.12, 65.11]
+            ]
+        ]
+    }
+}

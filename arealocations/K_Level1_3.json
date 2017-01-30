@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Apache Software Foundation Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [143.38, 293.09],
+                [143.38, 292.88],
+                [145.4, 292.88],
+                [145.4, 293.09],
+                [143.38, 293.09]
+            ]
+        ]
+    }
+}

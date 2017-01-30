@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "CAcert / secure-u Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [142.09, 291.77],
+                [142.36, 291.78],
+                [142.34, 293.52],
+                [142.06, 293.52],
+                [142.09, 291.77]
+            ]
+        ]
+    }
+}

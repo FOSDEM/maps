@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Coreboot Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [367.0, 89.56],
+                [367.75, 89.59],
+                [367.75, 88.12],
+                [367.0, 88.12],
+                [367.0, 89.56]
+            ]
+        ]
+    }
+}

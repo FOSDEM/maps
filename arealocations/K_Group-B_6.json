@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Nextcloud Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [129.86, 283.2],
+                [129.7, 283.41],
+                [131.25, 284.46],
+                [131.41, 284.23],
+                [129.86, 283.2]
+            ]
+        ]
+    }
+}

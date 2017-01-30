@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Open Smart Grid Platform Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [155.67, 293.05],
+                [155.66, 292.88],
+                [157.65, 292.86],
+                [157.65, 293.02],
+                [155.67, 293.05]
+            ]
+        ]
+    }
+}

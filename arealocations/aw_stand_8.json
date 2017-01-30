@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "OpenEmbedded Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [354.44, 96.03],
+                [355.28, 96.06],
+                [355.31, 97.56],
+                [354.41, 97.59],
+                [354.44, 96.03]
+            ]
+        ]
+    }
+}

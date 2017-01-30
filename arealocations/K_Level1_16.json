@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Ultimaker Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [168.23, 292.94],
+                [168.23, 292.77],
+                [169.7, 292.75],
+                [169.7, 292.93],
+                [168.23, 292.94]
+            ]
+        ]
+    }
+}

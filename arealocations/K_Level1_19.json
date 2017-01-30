@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Matrix Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [133.31, 288.61],
+                [133.31, 288.22],
+                [131.58, 288.22],
+                [131.57, 288.59],
+                [133.31, 288.61]
+            ]
+        ]
+    }
+}

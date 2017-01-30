@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "CentOS Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [118.7, 270.94],
+                [118.94, 270.8],
+                [117.98, 269.73],
+                [117.81, 269.91],
+                [118.7, 270.94]
+            ]
+        ]
+    }
+}

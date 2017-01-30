@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Linux From Scratch Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [164.68, 292.96],
+                [164.69, 292.8],
+                [166.21, 292.79],
+                [166.22, 292.95],
+                [164.68, 292.96]
+            ]
+        ]
+    }
+}

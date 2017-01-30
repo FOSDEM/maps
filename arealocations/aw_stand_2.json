@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "GNU GRUB Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [366.97, 90.12],
+                [367.72, 90.12],
+                [367.72, 91.47],
+                [366.94, 91.53],
+                [366.97, 90.12]
+            ]
+        ]
+    }
+}

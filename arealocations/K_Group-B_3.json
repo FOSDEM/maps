@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "CoreOS Linux Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [125.6, 277.6],
+                [125.95, 277.61],
+                [125.92, 279.55],
+                [125.57, 279.55],
+                [125.6, 277.6]
+            ]
+        ]
+    }
+}

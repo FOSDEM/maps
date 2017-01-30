@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Automotive Grade Linux Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [366.97, 96.41],
+                [367.69, 96.38],
+                [367.69, 94.84],
+                [367.0, 94.84],
+                [366.97, 96.41]
+            ]
+        ]
+    }
+}

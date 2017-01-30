@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "GNU Taler Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [118.66, 277.73],
+                [118.62, 280.11],
+                [118.94, 280.11],
+                [118.95, 277.73],
+                [118.66, 277.73]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Infodesk Stand Building H2"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [294.09, 143.36],
+                [292.47, 143.38],
+                [292.5, 135.78],
+                [294.11, 135.77],
+                [294.09, 143.36]
+            ]
+        ]
+    }
+}

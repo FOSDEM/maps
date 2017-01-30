@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Job Corner Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [293.59, 116.64],
+                [294.94, 116.61],
+                [294.97, 120.08],
+                [293.55, 120.08],
+                [293.59, 116.64]
+            ]
+        ]
+    }
+}

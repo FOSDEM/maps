@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Gentoo Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [125.97, 274.98],
+                [125.62, 274.98],
+                [125.6, 277.03],
+                [125.95, 277.04],
+                [125.97, 274.98]
+            ]
+        ]
+    }
+}

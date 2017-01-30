@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "KDE Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [117.62, 286.84],
+                [116.53, 287.53],
+                [116.73, 287.79],
+                [117.79, 287.08],
+                [117.62, 286.84]
+            ]
+        ]
+    }
+}

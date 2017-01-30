@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Suricata IDS Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [152.25, 293.06],
+                [152.25, 292.91],
+                [153.53, 292.89],
+                [153.53, 293.05],
+                [152.25, 293.06]
+            ]
+        ]
+    }
+}

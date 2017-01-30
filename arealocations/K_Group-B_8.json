@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Open Build Service / openQA Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [133.1, 285.27],
+                [135.13, 285.3],
+                [135.12, 285.54],
+                [133.1, 285.52],
+                [133.1, 285.27]
+            ]
+        ]
+    }
+}

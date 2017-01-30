@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "The Realtime Lounge Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [131.58, 288.21],
+                [130.96, 288.2],
+                [130.98, 286.52],
+                [131.57, 286.52],
+                [131.58, 288.21]
+            ]
+        ]
+    }
+}

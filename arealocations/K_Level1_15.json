@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Google Summer of Code and Google Code-in Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [166.69, 292.95],
+                [166.68, 292.8],
+                [168.14, 292.8],
+                [168.14, 292.94],
+                [166.69, 292.95]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "MuseScore Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [135.22, 288.61],
+                [135.21, 288.23],
+                [133.39, 288.21],
+                [133.38, 288.6],
+                [135.22, 288.61]
+            ]
+        ]
+    }
+}

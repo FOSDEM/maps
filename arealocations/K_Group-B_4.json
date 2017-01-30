@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Debian Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [126.07, 279.98],
+                [127.93, 281.73],
+                [127.67, 281.99],
+                [125.8, 280.23],
+                [126.07, 279.98]
+            ]
+        ]
+    }
+}

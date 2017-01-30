@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "LibreOffice Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [118.55, 286.14],
+                [118.84, 286.14],
+                [118.86, 284.48],
+                [118.58, 284.48],
+                [118.55, 286.14]
+            ]
+        ]
+    }
+}

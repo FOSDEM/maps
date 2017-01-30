@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "CiviCRM Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [118.61, 282.3],
+                [118.91, 282.3],
+                [118.92, 280.21],
+                [118.62, 280.21],
+                [118.61, 282.3]
+            ]
+        ]
+    }
+}

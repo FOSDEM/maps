@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Gnome Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [117.88, 287.0],
+                [117.73, 286.77],
+                [118.56, 286.23],
+                [118.72, 286.46],
+                [117.88, 287.0]
+            ]
+        ]
+    }
+}

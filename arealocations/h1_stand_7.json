@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "MySQL Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [294.64, 67.91],
+                [295.16, 67.91],
+                [295.16, 68.98],
+                [294.64, 69.0],
+                [294.64, 67.91]
+            ]
+        ]
+    }
+}

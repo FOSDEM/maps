@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Xen Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [133.2, 290.14],
+                [135.05, 290.13],
+                [135.06, 289.86],
+                [133.2, 289.88],
+                [133.2, 290.14]
+            ]
+        ]
+    }
+}

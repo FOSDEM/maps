@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Mozilla Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [138.44, 293.09],
+                [140.69, 293.12],
+                [140.68, 292.87],
+                [138.45, 292.86],
+                [138.44, 293.09]
+            ]
+        ]
+    }
+}

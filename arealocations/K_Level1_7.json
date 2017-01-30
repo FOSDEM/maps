@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "OpenNMS Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [150.93, 293.07],
+                [150.92, 292.91],
+                [152.19, 292.91],
+                [152.19, 293.07],
+                [150.93, 293.07]
+            ]
+        ]
+    }
+}

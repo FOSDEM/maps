@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "O'Reilly Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [294.88, 110.09],
+                [294.94, 116.12],
+                [293.56, 116.16],
+                [293.53, 110.06],
+                [294.88, 110.09]
+            ]
+        ]
+    }
+}

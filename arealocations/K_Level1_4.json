@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "OW2 Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [145.52, 293.09],
+                [145.52, 292.89],
+                [147.24, 292.88],
+                [147.24, 293.09],
+                [145.52, 293.09]
+            ]
+        ]
+    }
+}

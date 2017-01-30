@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Free Software Foundation Europe (FSFE) Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [126.85, 290.11],
+                [126.85, 289.84],
+                [128.72, 289.84],
+                [128.71, 290.11],
+                [126.85, 290.11]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Diaspora* Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [140.79, 293.11],
+                [140.8, 292.88],
+                [142.81, 292.88],
+                [142.81, 293.11],
+                [140.79, 293.11]
+            ]
+        ]
+    }
+}

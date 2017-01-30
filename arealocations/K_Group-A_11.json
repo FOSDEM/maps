@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Fedora Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [117.74, 269.84],
+                [117.9, 269.67],
+                [116.71, 268.85],
+                [116.56, 269.04],
+                [117.74, 269.84]
+            ]
+        ]
+    }
+}

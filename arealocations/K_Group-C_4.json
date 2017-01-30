@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Tor, Tails, Fr\u00ebnn vun der \u00cbnn, Nos oignons Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [130.98, 290.13],
+                [132.98, 290.13],
+                [132.98, 289.87],
+                [130.98, 289.86],
+                [130.98, 290.13]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "SOFA Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [137.53, 288.61],
+                [137.53, 288.2],
+                [135.28, 288.22],
+                [135.27, 288.59],
+                [137.53, 288.61]
+            ]
+        ]
+    }
+}

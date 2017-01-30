@@ -1,0 +1,24 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Godot Engine Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [294.95, 48.87],
+                [294.94, 49.7],
+                [294.59, 49.69],
+                [294.59, 49.3],
+                [294.59, 48.85],
+                [294.95, 48.87]
+            ]
+        ]
+    }
+}

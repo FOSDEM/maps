@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Bazel Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [131.46, 284.27],
+                [131.31, 284.5],
+                [132.84, 285.49],
+                [132.99, 285.26],
+                [131.46, 284.27]
+            ]
+        ]
+    }
+}

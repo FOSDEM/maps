@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Turris Omnia Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [153.76, 293.04],
+                [153.76, 292.9],
+                [155.59, 292.89],
+                [155.59, 293.04],
+                [153.76, 293.04]
+            ]
+        ]
+    }
+}

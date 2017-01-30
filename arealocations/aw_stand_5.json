@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Ham Radio Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [355.38, 91.56],
+                [354.38, 91.56],
+                [354.41, 89.5],
+                [355.38, 89.47],
+                [355.38, 91.56]
+            ]
+        ]
+    }
+}

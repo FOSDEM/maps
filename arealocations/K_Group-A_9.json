@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "OpenSUSE Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [118.7, 273.17],
+                [118.97, 273.17],
+                [119.0, 271.06],
+                [118.72, 271.06],
+                [118.7, 273.17]
+            ]
+        ]
+    }
+}

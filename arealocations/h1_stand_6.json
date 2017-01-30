@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "GrimoireLab Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [294.66, 66.52],
+                [295.12, 66.53],
+                [295.12, 67.5],
+                [294.64, 67.52],
+                [294.66, 66.52]
+            ]
+        ]
+    }
+}

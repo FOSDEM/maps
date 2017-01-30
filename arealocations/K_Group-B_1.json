@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "ReactOS / Haiku Stand"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "poi",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [127.88, 274.8],
+                [127.88, 274.39],
+                [125.91, 274.39],
+                [125.91, 274.8],
+                [127.88, 274.8]
+            ]
+        ]
+    }
+}
