@@ -9,4 +9,4 @@ git remote update
 git reset --hard origin/master
 
 cd ~/data
-sudo docker run --rm --name fosdem-map -v $(pwd):/data -v $(pwd)/c3nav.cfg:/etc/c3nav/c3nav.cfg c3nav/c3nav load_build
+docker run --rm --name fosdem-map --env LOCAL_USER_ID=$(id -u) -v $(pwd):/data -v $(pwd)/c3nav.cfg:/etc/c3nav/c3nav.cfg c3nav/c3nav load_build
