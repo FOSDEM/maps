@@ -3,23 +3,7 @@ FOSDEM maps
 
 This is the port of the FOSDEM campus to c3nav.de data. We gather on irc.freenode.net#fosdem-nav to coordinate the work.
 
-This repo holds general map data. If items on the map are specific to year (ie
-stand locations), they should be added to `maps-2017`. If the items are day
-specific (ie devrooms), they should be added to the respective `maps-2017-sat`
-and `maps-2017-sun`.
-
 # TODO (in descending order of urgency)
-## Align the source maps
-The source maps need to be fit to the correct scale and location so they line up with the rest of the map.
-This is so you can tick a box and see them in the editor as underlays, or "sources" as c3nav calls them.
-
-Just add the image you want to add to a source folder in your map package and a file with the named <imagefilename>.json. the json files describes where in the editor the image should be displayed. see the link for details. :) if you don't have any map/dwg file of the building, try to obtain rescue plans.
-
-In the github repo, there's files like maps/sources/k-1.png.json, with contents like:
-<pre>"bounds": [[0.0, 0.0], [100.0, 100.0]]</pre>
-
-You need to change those coordinates to make things look right by editing the json, running loadmap, refreshing the editor and finally doing a visual check.
-
 ## Fill in rooms and main pathways
 This needs to happen in http://nav.fosdem.org/editor . 
 
@@ -53,9 +37,6 @@ Make sure you have docker allready installed. If you do a fresh install make sur
     $ mkdir -p fosdem-map-data/map
     $ cd fosdem-map-data/map
     $ git clone git@github.com:FOSDEM/maps.git
-    $ git clone git@github.com:kragniz/maps-2017.git
-    $ git clone git@github.com:kragniz/maps-2017-sat.git
-    $ git clone git@github.com:kragniz/maps-2017-sun.git
     $ docker pull c3nav/c3nav
     $ cd ..
     $ docker run --rm --name fosdem-map -v $(pwd):/data c3nav/c3nav loadmap
