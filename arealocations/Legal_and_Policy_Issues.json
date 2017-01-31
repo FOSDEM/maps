@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Legal and Policy Issues Room"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [286.37, 48.57],
+                [286.34, 59.09],
+                [269.27, 59.12],
+                [269.21, 48.54],
+                [286.37, 48.57]
+            ]
+        ]
+    }
+}
