@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "SDN and NFV Room"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [488.12, 232.25],
+                [501.94, 232.26],
+                [501.95, 219.24],
+                [488.11, 219.23],
+                [488.12, 232.25]
+            ]
+        ]
+    }
+}

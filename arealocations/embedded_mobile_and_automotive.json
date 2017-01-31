@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "Embedded, mobile and automotive Room"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [357.06, 208.8],
+                [369.69, 208.81],
+                [369.67, 187.59],
+                [357.06, 187.58],
+                [357.06, 208.8]
+            ]
+        ]
+    }
+}
