@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Electronic Design Automation (EDA)"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [345.09, 113.42],
+                [355.7, 113.42],
+                [355.72, 103.48],
+                [345.09, 103.39],
+                [345.09, 113.42]
+            ]
+        ]
+    }
+}

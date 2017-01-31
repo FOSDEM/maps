@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Internet of Things"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [365.86, 113.42],
+                [377.05, 113.44],
+                [377.11, 103.53],
+                [365.92, 103.52],
+                [365.86, 113.42]
+            ]
+        ]
+    }
+}
