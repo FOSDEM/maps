@@ -1,5 +1,5 @@
 {
-    "level": "1",
+    "level": "0",
     "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -16,5 +16,5 @@
             ]
         ]
     },
-    "crop_to_level": "1"
+    "crop_to_level": "0"
 }
