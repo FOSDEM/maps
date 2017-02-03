@@ -1,0 +1,27 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "Avenue Paul Heger"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "area",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [296.62, 336.88],
+                [323.62, 337.25],
+                [328.0, 159.75],
+                [316.75, 159.25],
+                [318.75, 32.75],
+                [292.25, 19.62],
+                [296.75, 26.75],
+                [297.75, 36.38],
+                [296.62, 336.88]
+            ]
+        ]
+    }
+}

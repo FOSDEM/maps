@@ -1,0 +1,23 @@
+{
+    "level": "0",
+    "titles": {
+        "en": "UD Corridor "
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "area",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [353.0, 218.25],
+                [353.12, 208.88],
+                [328.69, 208.88],
+                [328.62, 218.31],
+                [353.0, 218.25]
+            ]
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "level": "1",
+    "titles": {
+        "en": "H2 WC"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "room",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [263.16, 113.69],
+                [267.94, 113.69],
+                [267.91, 104.09],
+                [263.16, 104.22],
+                [263.16, 113.69]
+            ]
+        ]
+    }
+}

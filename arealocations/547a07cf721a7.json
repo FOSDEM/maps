@@ -1,0 +1,23 @@
+{
+    "level": "0-1",
+    "titles": {
+        "en": "K stairwell"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "area",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [128.55, 294.06],
+                [135.48, 294.06],
+                [135.44, 291.44],
+                [128.48, 291.38],
+                [128.55, 294.06]
+            ]
+        ]
+    }
+}

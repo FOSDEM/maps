@@ -1,0 +1,23 @@
+{
+    "level": "2-3",
+    "titles": {
+        "en": "K Stairwell"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "area",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [137.56, 293.86],
+                [137.64, 288.55],
+                [131.75, 288.66],
+                [131.91, 293.86],
+                [137.56, 293.86]
+            ]
+        ]
+    }
+}

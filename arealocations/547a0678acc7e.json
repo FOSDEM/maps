@@ -1,0 +1,23 @@
+{
+    "level": "0-1",
+    "titles": {
+        "en": "UD Stairwell"
+    },
+    "can_search": true,
+    "can_describe": true,
+    "groups": [],
+    "location_type": "area",
+    "routing_inclusion": "default",
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+            [
+                [345.22, 222.83],
+                [352.34, 222.89],
+                [352.33, 217.81],
+                [345.22, 217.8],
+                [345.22, 222.83]
+            ]
+        ]
+    }
+}
